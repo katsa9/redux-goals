@@ -1,3 +1,6 @@
+## A simple app to create and mark off todos and goals
+Aim of the project was to learn the basics of redux
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
